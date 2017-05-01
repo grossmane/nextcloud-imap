@@ -1,4 +1,4 @@
-FROM nextcloud:11.0.2
+FROM nextcloud:11.0.3
 MAINTAINER Jens Grossmann <grossmane@users.noreply.github.com>
 
 #ENV http_proxy http://proxy:8080
